@@ -1,0 +1,4 @@
+Wireless Module Notes:
+
+Here is a cypress document that shows what to include into the .gitignore file.
+ and what to include to properly push to the repo.

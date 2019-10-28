@@ -1,1 +1,4 @@
 # Final-Project
+
+# Overview:
+  Currently, the most common mode of travel around campus is by walking long distances in a short amount of time. This can be a very time consuming and energy consuming process that would greatly benefit from a more efficient mode of transportation. The goal of this project is to create an electric skateboard that allows students to move around campus in a more timely manner that is cheaper, lasts longer, goes faster, and is safer than the current equivalent. This will require firmware to control the board wirelessly using two microcontrollers, the use of motors and motor driver circuits to physically drive the board, charging via USB-C for easier charging access without the need for a specifically dedicated charging solution, and power distribution/regulation for all of the components involved using a safer battery type. 

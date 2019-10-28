@@ -526,7 +526,7 @@ F 3 "" H 5200 5950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Label 5200 5650 0    50   ~ 0
-4
+26
 Text Label 5200 5750 0    50   ~ 0
 21
 Text Label 5200 5850 0    50   ~ 0
